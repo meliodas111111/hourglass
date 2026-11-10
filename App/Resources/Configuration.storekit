@@ -1,0 +1,45 @@
+{
+  "identifier" : "6C1D2F4E-8A0B-4C3D-9E5F-7A1B2C3D4E5F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : true,
+      "internalID" : "6740000001",
+      "localizations" : [
+        {
+          "description" : "Removes ads and unlocks premium sand themes.",
+          "displayName" : "Supporter",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Убирает рекламу и открывает премиум-темы песка.",
+          "displayName" : "Supporter",
+          "locale" : "ru"
+        }
+      ],
+      "productID" : "com.meliodas.hourglass.supporter",
+      "referenceName" : "Supporter",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6740000000",
+    "_developerTeamID" : "",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

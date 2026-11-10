@@ -1,0 +1,338 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "CFBundleDisplayName": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sanduhr"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hourglass"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reloj de arena"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sablier"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "रेत घड़ी"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clessidra"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "砂時計"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모래시계"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Klepsydra"
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ampulheta"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Песочные часы"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kum Saati"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "沙漏"
+          }
+        }
+      }
+    },
+    "NSAlarmKitUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wecker sorgen dafür, dass dein Timer auch im Stumm- oder Fokusmodus klingelt."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alarms make sure your timer rings even in Silent mode or with Focus on."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las alarmas garantizan que el temporizador suene incluso en modo silencio o con un modo de concentración activado."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les alarmes garantissent que votre minuteur sonne même en mode silencieux ou avec un Mode de concentration."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "अलार्म सुनिश्चित करते हैं कि साइलेंट मोड या फ़ोकस चालू होने पर भी टाइमर बजे।"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le sveglie garantiscono che il timer suoni anche in modalità silenziosa o con la modalità Full immersion attiva."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アラームにより、消音モードや集中モードでもタイマーが鳴ります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알람을 사용하면 무음 모드나 집중 모드에서도 타이머가 울립니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alarmy sprawiają, że minutnik zadzwoni nawet w trybie cichym lub przy włączonym skupieniu."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os alarmes garantem que o timer toque mesmo no modo silencioso ou com o Foco ativado."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Будильники гарантируют, что таймер прозвенит даже в беззвучном режиме или при включённом фокусе."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alarmlar, zamanlayıcının sessiz modda veya Odak açıkken bile çalmasını sağlar."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "闹钟可确保计时器即使在静音或专注模式下也会响起。"
+          }
+        }
+      }
+    },
+    "NSMotionUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bewegungsdaten lassen den Sand mit echter Schwerkraft fallen und starten den Timer, wenn du das Gerät umdrehst."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motion data lets the sand fall with real gravity and lets you start the timer by flipping your device."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Los datos de movimiento hacen que la arena caiga con la gravedad real y permiten iniciar el temporizador girando el dispositivo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les données de mouvement font tomber le sable selon la gravité réelle et permettent de démarrer le minuteur en retournant l'appareil."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "मोशन डेटा से रेत असली गुरुत्व के साथ गिरती है और डिवाइस पलटकर टाइमर शुरू किया जा सकता है।"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I dati di movimento fanno cadere la sabbia con la gravità reale e permettono di avviare il timer capovolgendo il dispositivo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モーションデータにより砂が実際の重力で落ち、デバイスを反転してタイマーを開始できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "동작 데이터를 사용하면 모래가 실제 중력으로 떨어지고 기기를 뒤집어 타이머를 시작할 수 있습니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dane o ruchu sprawiają, że piasek spada zgodnie z grawitacją, a odwrócenie urządzenia uruchamia minutnik."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Os dados de movimento fazem a areia cair com a gravidade real e permitem iniciar o timer virando o dispositivo."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Данные движения позволяют песку падать по настоящей гравитации и запускать таймер переворотом устройства."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hareket verileri kumun gerçek yerçekimiyle düşmesini ve cihazı çevirerek zamanlayıcıyı başlatmayı sağlar."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "运动数据让沙子随真实重力落下，并可通过翻转设备启动计时器。"
+          }
+        }
+      }
+    },
+    "NSUserTrackingUsageDescription": {
+      "extractionState": "manual",
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit Tracking zeigen wir in der Gratisversion relevantere Werbung. Du kannst ablehnen — die App funktioniert genauso."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allowing tracking lets us show more relevant ads in the free version. You can say no and the app works the same."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir el seguimiento nos deja mostrar anuncios más relevantes en la versión gratuita. Puedes negarte y la app funciona igual."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autoriser le suivi permet d'afficher des publicités plus pertinentes dans la version gratuite. Vous pouvez refuser, l'app fonctionne de la même façon."
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ट्रैकिंग की अनुमति देने से मुफ़्त संस्करण में अधिक प्रासंगिक विज्ञापन दिखते हैं। आप मना कर सकते हैं, ऐप वैसे ही काम करेगा।"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Consentire il tracciamento ci permette di mostrare annunci più pertinenti nella versione gratuita. Puoi rifiutare e l'app funziona allo stesso modo."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トラッキングを許可すると、無料版でより関連性の高い広告を表示できます。許可しなくてもアプリは同じように動作します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "추적을 허용하면 무료 버전에서 더 관련성 높은 광고를 보여드릴 수 있습니다. 거부해도 앱은 동일하게 작동합니다."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zgoda na śledzenie pozwala wyświetlać trafniejsze reklamy w wersji darmowej. Możesz odmówić — aplikacja działa tak samo."
+          }
+        },
+        "pt": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir o rastreamento nos deixa mostrar anúncios mais relevantes na versão gratuita. Você pode recusar e o app funciona igual."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Разрешение на отслеживание позволяет показывать более релевантную рекламу в бесплатной версии. Можно отказаться — приложение будет работать так же."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İzlemeye izin vermek ücretsiz sürümde daha alakalı reklamlar göstermemizi sağlar. Reddedebilirsiniz; uygulama aynı şekilde çalışır."
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许跟踪可让我们在免费版中展示更相关的广告。您可以拒绝，应用功能不受影响。"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
